@@ -1,0 +1,100 @@
+.alpha{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 400px;
+    border: 5px solid red;
+    top: 100px;
+
+}
+.cube{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: black;
+}
+.cuben{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    right:0;
+    background-color: black;
+}
+.cubeb{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    bottom: 0;
+    background-color: black;
+}
+.cubec{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    right:0;
+    bottom: 0;
+    background-color: black;
+}
+.alphab{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 400px;
+    border: 5px solid red;
+    top: 100px;
+
+}
+.cube{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: black;
+}
+.cuben{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    right:0;
+    background-color: black;
+}
+.cubeb{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    bottom: 0;
+    background-color: black;
+}
+.cubec{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    right:0;
+    bottom: 0;
+    background-color: black;
+}
+.center{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: black;
+    top: 70px;
+    left: 70px;
+}
